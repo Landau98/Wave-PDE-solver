@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "FAVITTA"
+  given-names: "AMEDEO_MARIA"
+  orcid: "https://orcid.org/0000-0003-2356-1356"
+title: "Wave-PDE-solver"
+version: 1.0.0
+journal: "GitHub repository"
+date-released: 2025-12-26
+url: "https://github.com/Landau98/Wave-PDE-solver"
