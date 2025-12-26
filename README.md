@@ -1,5 +1,5 @@
 # Wave-PDE-solver
-A notebook devoted to the general aspects regarding the numerical resolution of a 1+1-dimensional wave equation. We treat the analytic D'Alembert solution, and we treat the numerical methods to solve it, when the initial and boundary conditions are fixed. Specifically, we numerically solve a 1d Wave PDE Boundary Value Problem using a CTCS scheme. We also estimate the possible numerical problems, arising from truncation errors, numerical dissipation. 
+A notebook devoted to the general aspects regarding the numerical resolution of a 1+1-dimensional wave equation. We treat the analytic D'Alembert solution, and we treat the numerical methods to solve it, when the initial and boundary conditions are fixed. Specifically, we numerically solve a 1d Wave PDE Boundary Value Problem using a CTCS scheme. We also estimate the possible numerical problems, arising from truncation errors, numerical dissipation. Master's project for the subject Computational Physics.
 
 If you use this code, please cite:
 
