@@ -5,7 +5,7 @@ If you use this code, please cite:
 
 ```bibtex
 @software{FAVITTA_Wave-PDE-solver_2025,
-author = {FAVITTA, AMEDEO_MARIA},
+author = {FAVITTA, AMEDEO M.},
 month = dec,
 title = {{Wave-PDE-solver}},
 url = {https://github.com/Landau98/Wave-PDE-solver},
