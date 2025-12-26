@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
 - family-names: "FAVITTA"
-  given-names: "AMEDEO_MARIA"
+  given-names: "AMEDEO M."
   orcid: "https://orcid.org/0000-0003-2356-1356"
 title: "Wave-PDE-solver"
 version: 1.0.0
