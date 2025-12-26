@@ -14,7 +14,7 @@ url = {https://github.com/Landau98/Wave-PDE-solver},
 version = {1.0.0},
 year = {2025}
 }
-
+```
 ## License
 All visual material is released under the Creative Commons Attribution 4.0
 International License (CC BY 4.0), unless otherwise stated.
